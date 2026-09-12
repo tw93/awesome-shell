@@ -1,1 +1,1 @@
-PLACEHOLDER_WILL_REPLACE
+@file:///workspace/awesome-prs/awesome-shell-README.md
